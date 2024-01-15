@@ -1,1 +1,2 @@
-# Naive-Bayes-Salary-data-
+# Naive Bayes Salary data
+### Prepare a classification model using Naive Bayes for salary data
